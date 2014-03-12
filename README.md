@@ -1,4 +1,4 @@
-radio.opu.ua
+<radio.opu.ua>
 ============
 
 Radio ONPU

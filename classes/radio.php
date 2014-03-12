@@ -1,4 +1,4 @@
-<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+
 <?php
 
 /*
@@ -72,9 +72,11 @@ $string = $radio_info['url'];
 $string = iconv('utf-8', 'cp1252', $string);
 $string = iconv('cp1251', 'utf-8', $string);
 echo "<div id='info'>";
-echo "Вы слушаете ".$radio_info['title']."<br />";
+//echo "Вы слушаете ".$radio_info['title']."<br /><br />";
 
-echo "Сейчас в эфире: ".$string."<br />";
 
-echo "Сейчас нас слушают ".$radio_info['listeners'];
+echo "Сейчас в эфире: <br />".$string."<br /><br />";
+
+//
+//echo "Сейчас нас слушают ".$radio_info['listeners'];
 echo "</div>";
