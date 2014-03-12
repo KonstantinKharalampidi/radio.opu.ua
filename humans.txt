@@ -3,11 +3,14 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Konstantin Kharalampidi -- Developer -- https://twitter.com/IGudson
+    Natali Plokhaya -- Idea maker -- https://twitter.com/Plochay
 
 # THANKS
 
-    <name>
+    Margarita Melnik
+    Victor Chechelnitsky
+    Gennadiy Oborsky
 
 # TECHNOLOGY COLOPHON
 

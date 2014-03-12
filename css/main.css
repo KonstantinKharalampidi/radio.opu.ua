@@ -5,7 +5,8 @@
    ========================================================================== */
 
 body {
-    background: url("../img/logo.png") no-repeat 50% 150%;
+    background: url("../img/logo.png") no-repeat 50% 50% fixed;
+
 
 
 }

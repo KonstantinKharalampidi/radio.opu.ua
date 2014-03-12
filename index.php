@@ -131,36 +131,8 @@
 
 <footer>
 
-    <div class="navbar navbar-fixed-bottom">
-        <div class="container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
 
-            </div>
-            <div class="navbar-collapse collapse">
-                <ul class="nav navbar-nav">
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Последние новости <b class="caret"></b></a>
-                        <ul class="dropdown-menu">
-
-                                <!--<li>Тут должны быть последние новости с блога</li>-->
-                        </ul>
-                    </li>
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Комментарии <b class="caret"></b></a>
-                        <ul class="dropdown-menu">
-                            <!--<li>Тут должны быть комментарии FB + VK</li>-->
-                        </ul>
-                    </li>
-                </ul>
-            </div><!--/.navbar-collapse -->
-        </div>
-    </div>
-
+ <p>We Are <a href="humans.txt">People</a>, Not Machines &copy; http://humanstxt.org/</p>.
 </footer>
 <!-- /container -->        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.1.min.js"><\/script>')</script>
