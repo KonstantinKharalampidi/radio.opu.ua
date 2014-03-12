@@ -2,3 +2,7 @@
 ============
 
 Radio ONPU
+
+Radio of Odessa national polytechnic university
+
+;)
