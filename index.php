@@ -6,7 +6,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title></title>
+    <title>Радио ОНПУ</title>
     <meta name="description" content="">
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -166,12 +166,12 @@
                 </div>
             </div>
             <!-- Controls -->
-            <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
+           <!-- <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
                 <span class="glyphicon glyphicon-chevron-left"></span>
             </a>
             <a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
                 <span class="glyphicon glyphicon-chevron-right"></span>
-            </a>
+            </a>-->
         </div>
 
 
