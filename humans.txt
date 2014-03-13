@@ -1,18 +1,31 @@
-# humanstxt.org/
+﻿# humanstxt.org/
 # The humans responsible & technology colophon
 
 # TEAM
 
-    Konstantin Kharalampidi -- Developer -- https://twitter.com/IGudson
-    Natali Plokhaya -- Idea maker -- https://twitter.com/Plochay
+    Константин Харалампиди -- Разработчик -- https://twitter.com/IGudson
+    Натали Плохая -- Ведущая, основатель проекта -- https://twitter.com/Plochay
+    Владимир Бунджа -- Ведущий, основатель проекта -- https://twitter.com/plsktck
+    Никита Комарницкий -- Ведущий, основатель проекта --
+    Максим Молостов -- Ведущий, основатель проекта -- https://twitter.com/RJ_Tamerlan
+    Анастасия Шипунова -- Ведущая --
+    Богдан Кузьменко -- Ведущий -- https://twitter.com/kuzenka_rj
+    Марья Реу -- Ведущая
+    Валерия Киртока -- Ведущая
+    Денис Чепеленко -- Ведущий
 
 # THANKS
 
-    Margarita Melnik
-    Victor Chechelnitsky
-    Gennadiy Oborsky
+    Геннадий Оборский
+    Виктор Чечельницкий
+    Маргарита Мельник
+    Алексей Михайлюк
+    Юрий Свинарёв
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    IDE: JetBrains PHPStorm
+    Twitter Bootstrap, html5 boilerplate
+    github :)

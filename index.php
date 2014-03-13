@@ -135,10 +135,7 @@
     <!-- Wrapper for slides -->
     <div class="row-fluid">
         <div class="span4 offset1">
-            <a class="twitter-timeline"  href="https://twitter.com/radioonpu"  data-widget-id="369722372003078144">Твиты пользователя @radioonpu</a>
-            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-
-
+            <iframe src="//www.ustream.tv/socialstream/17387557" style="border: 0 none transparent;" frameborder="no" width="600" height="437"></iframe><br /><a href="http://www.ustream.tv/" style="padding: 2px 0px 4px; width: 400px; background: #ffffff; display: block; color: #000000; font-weight: normal; font-size: 10px; text-decoration: underline; text-align: center;" target="_blank">Live streaming video by Ustream</a>
         </div>
         <div class="span5 offset2">
             <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
