@@ -119,8 +119,11 @@
         <div class="span4 offset1">
             <h1>Сегодня в эфире: </h1>
 
-            <p>Бобрый день в 16:00</p>
-            <p>Саме той Band в 19:00</p>
+            <?php
+            require_once('classes/Schedule.php');
+            $schedule = new Schedule();
+            $schedule->getTodaySchedule();
+            ?>
 
 
 
