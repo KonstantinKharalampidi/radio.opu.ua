@@ -32,7 +32,8 @@
 <!--[if lt IE 7]>
 <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
 <![endif]-->
-<div class="navbar navbar navbar-fixed-top">
+
+<div class="navbar navbar-default navbar-static-top" role="navigation" >
     <div class="container">
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -69,8 +70,7 @@
             </ul>
         </div><!--/.navbar-collapse -->
     </div>
-</div>
-<hr />
+</div><br />
 <div class="container-fluid">
     <div class="row-fluid">
 
@@ -134,10 +134,9 @@
 
     <!-- Wrapper for slides -->
     <div class="row-fluid">
-        <div class="span4 offset1">
-            <iframe src="//www.ustream.tv/socialstream/17387557" style="border: 0 none transparent;" frameborder="no" width="600" height="437"></iframe><br /><a href="http://www.ustream.tv/" style="padding: 2px 0px 4px; width: 400px; background: #ffffff; display: block; color: #000000; font-weight: normal; font-size: 10px; text-decoration: underline; text-align: center;" target="_blank">Live streaming video by Ustream</a>
-        </div>
-        <div class="span5 offset2">
+        <div class="span5 offset1">
+            <iframe src="//www.ustream.tv/socialstream/17467607" style="border: 0 none transparent;" frameborder="no" width="500" height="400"></iframe><br /><a href="http://www.ustream.tv/" style="padding: 2px 0px 4px; width: 400px; background: #ffffff; display: block; color: #000000; font-weight: normal; font-size: 10px; text-decoration: underline; text-align: center;" target="_blank"><3 Ustream</a>        </div>
+        <div class="span5 offset1">
             <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
                 <!-- Indicators -->
                 <ol class="carousel-indicators">
@@ -184,7 +183,7 @@
 
 <footer>
    <div class="row-fluid">
-       <div class="span4 offset1">
+       <div class="span4 offset8">
            <p>We Are <a href="humans.txt">People</a>, Not Machines &copy; http://humanstxt.org/</p>.
        </div>
    </div>
