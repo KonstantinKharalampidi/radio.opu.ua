@@ -116,8 +116,11 @@
                 </div>
         </div>
 
-        <div class="span4">
+        <div class="span4 offset1">
+            <h1>Сегодня в эфире: </h1>
 
+            <p>Бобрый день в 16:00</p>
+            <p>Саме той Band в 19:00</p>
 
 
 
@@ -147,19 +150,19 @@
                 </ol>
             <div class="carousel-inner">
                 <div class="item active">
-                    <img width="500px" src="img/rubr/bobr.jpg" alt="Бобрый день">
+                    <a target="_blank" href="http://radio.opu.ua/?p=67"><img width="500px" src="img/rubr/bobr.jpg" alt="Бобрый день"></a>
                     <div class="carousel-caption" style="background: rgba(3, 3, 3, 0.7); border-radius: 25px">
                         Бобрый день
                     </div>
                 </div>
                 <div class="item">
-                    <img width="500px" src="img/rubr/band.jpg" alt="Саме той «BAND».">
+                    <a target="_blank" href="http://radio.opu.ua/?p=3836"><img width="500px" src="img/rubr/band.jpg" alt="Саме той «BAND»."></a>
                     <div class="carousel-caption"  style="background: rgba(3, 3, 3, 0.7); border-radius: 25px">
                         Саме той «BAND».
                     </div>
                 </div>
                 <div class="item">
-                    <img width="500px" src="img/rubr/band.jpg" alt="Time for good news">
+                    <a target="_blank" href="http://radio.opu.ua/?p=3845"><img width="500px" src="img/rubr/band.jpg" alt="Time for good news"></a>
                     <div class="carousel-caption"  style="background: rgba(3, 3, 3, 0.7); border-radius: 25px">
                         Time for good news
                     </div>
@@ -183,9 +186,14 @@
 
 
 <footer>
+   <div class="row-fluid">
+       <div class="span4 offset1">
+           <p>We Are <a href="humans.txt">People</a>, Not Machines &copy; http://humanstxt.org/</p>.
+       </div>
+   </div>
 
 
- <p>We Are <a href="humans.txt">People</a>, Not Machines &copy; http://humanstxt.org/</p>.
+
 </footer>
 <!-- /container -->        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.1.min.js"><\/script>')</script>
