@@ -32,7 +32,7 @@
 <!--[if lt IE 7]>
 <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
 <![endif]-->
-<div class="navbar navbar-inverse navbar-fixed-top">
+<div class="navbar navbar navbar-fixed-top">
     <div class="container">
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -40,11 +40,11 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#"><span class="glyphicon glyphicon-home"></span> </a>
-
-            <a class="navbar-brand">
 
 
+            <a class="navbar-brand" href="index.php">
+
+            <img width="80px" src="img/12779.png" />
 
             </a>
 
@@ -127,6 +127,59 @@
 
 </div>
 
+
+
+    <!-- Wrapper for slides -->
+    <div class="row-fluid">
+        <div class="span4 offset1">
+            <a class="twitter-timeline"  href="https://twitter.com/radioonpu"  data-widget-id="369722372003078144">Твиты пользователя @radioonpu</a>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+
+        </div>
+        <div class="span5 offset2">
+            <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+                <!-- Indicators -->
+                <ol class="carousel-indicators">
+                    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+                </ol>
+            <div class="carousel-inner">
+                <div class="item active">
+                    <img width="500px" src="img/rubr/bobr.jpg" alt="Бобрый день">
+                    <div class="carousel-caption" style="background: rgba(3, 3, 3, 0.7); border-radius: 25px">
+                        Бобрый день
+                    </div>
+                </div>
+                <div class="item">
+                    <img width="500px" src="img/rubr/band.jpg" alt="Саме той «BAND».">
+                    <div class="carousel-caption"  style="background: rgba(3, 3, 3, 0.7); border-radius: 25px">
+                        Саме той «BAND».
+                    </div>
+                </div>
+                <div class="item">
+                    <img width="500px" src="img/rubr/band.jpg" alt="Time for good news">
+                    <div class="carousel-caption"  style="background: rgba(3, 3, 3, 0.7); border-radius: 25px">
+                        Time for good news
+                    </div>
+                </div>
+            </div>
+            <!-- Controls -->
+            <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left"></span>
+            </a>
+            <a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
+                <span class="glyphicon glyphicon-chevron-right"></span>
+            </a>
+        </div>
+
+
+    </div>
+
+
+
+</div>
 
 
 <footer>
