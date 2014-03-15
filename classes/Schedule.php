@@ -19,9 +19,9 @@ class Schedule {
     }
     public function getTodaySchedule(){
 
-        mysql_connect('localhost','root','');
-        mysql_query("SET NAMES utf8");
-        mysql_select_db('radio');
+
+
+
         $rubrics = mysql_query('SELECT `name`,`time` FROM `schedule` WHERE `day` = "'.$this->day.'"');
         while($row = mysql_fetch_array($rubrics))
         {

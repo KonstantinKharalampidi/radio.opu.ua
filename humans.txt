@@ -26,6 +26,7 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+    PHP
     IDE: JetBrains PHPStorm
     Twitter Bootstrap, html5 boilerplate
     github :)

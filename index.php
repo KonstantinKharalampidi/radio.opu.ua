@@ -1,3 +1,6 @@
+<?php
+require_once('conf.php');
+?>
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -18,6 +21,7 @@
         body {
             padding-top: 50px;
             padding-bottom: 20px;
+
         }
     </style>
     <link rel="stylesheet" href="css/bootstrap-theme.min.css">
@@ -56,15 +60,14 @@
                 <li><a href="#blog">Блог</a></li>
                 <li><a href="#calendar">Расписание эфиров</a></li>
                 <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Прочее <b class="caret"></b></a>
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Социальные сети <b class="caret"></b></a>
                     <ul class="dropdown-menu">
-                        <li><a href="#">Action</a></li>
-                        <li><a href="#">Another action</a></li>
-                        <li><a href="#">Something else here</a></li>
+                        <li><a target="_blank" href="https://vk.com/radio.onpu">Вконтакте</a></li>
+                        <li><a target="_blank" href="https://twitter.com/radioonpu">Twitter</a></li>
+                        <li><a target="_blank" href="https://www.facebook.com/onpuradio">FaceBook</a></li>
                         <li class="divider"></li>
-                        <li class="dropdown-header">Nav header</li>
-                        <li><a href="#">Separated link</a></li>
-                        <li><a href="#">One more separated link</a></li>
+                        <li class="dropdown-header">Записи эфиров</li>
+                        <li><a target="_blank" href="http://radioonpu.podfm.ru/">Pod FM</a></li>
                     </ul>
                 </li>
             </ul>
@@ -138,7 +141,11 @@
     <!-- Wrapper for slides -->
     <div class="row-fluid">
         <div class="span5 offset1">
-            <iframe src="//www.ustream.tv/socialstream/17467607" style="border: 0 none transparent;" frameborder="no" width="500" height="400"></iframe><br /><a href="http://www.ustream.tv/" style="padding: 2px 0px 4px; width: 400px; background: #ffffff; display: block; color: #000000; font-weight: normal; font-size: 10px; text-decoration: underline; text-align: center;" target="_blank"><3 Ustream</a>        </div>
+
+
+
+
+        </div>
         <div class="span5 offset1">
             <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
                 <!-- Indicators -->
